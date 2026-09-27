@@ -1,4 +1,3 @@
-
 {
   "name": "mahmoud-moslhey-portfolio",
   "private": true,
@@ -22,6 +21,7 @@
     "zod": "^3.23.8"
   },
   "devDependencies": {
+    "@types/node": "^26.6.3",
     "@types/react": "^18.3.10",
     "@types/react-dom": "^18.3.0",
     "@types/three": "^0.169.0",
